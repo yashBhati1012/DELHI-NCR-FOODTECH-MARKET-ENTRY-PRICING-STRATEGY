@@ -1,0 +1,216 @@
+Locality,Restaurant_Count,Avg_Cost,Highest_Rating,Market_Expense_Rank
+"The Oberoi, Udyog Vihar, Gurgaon",3,4833.333333333333,4.7,1
+"ITC Maurya, Chanakyapuri, New Delhi",5,4820.0,4.9,2
+"Taj Palace, Chanakyapuri, New Delhi",5,4780.0,4.4,3
+"The Lalit New Delhi, Barakhamba Road, New Delhi",4,4650.0,4.2,4
+"The Taj Mahal Hotel, Mansingh Road, New Delhi",5,4040.0,4.5,5
+"The Leela Palace, Chanakyapuri, New Delhi",4,3875.0,4.3,6
+"Taj City Centre Gurugram, Sector 44, Gurgaon, Gurgaon",3,3633.3333333333335,4.3,7
+"Radisson Blu, Sector 18, Noida, Noida",4,3475.0,4.3,8
+"The Westin Gurgaon, Sector 29, Gurgaon",4,3475.0,4.4,8
+"Hyatt Regency, Bhikaji Cama Place, New Delhi",6,3333.3333333333335,4.5,9
+"Radisson Blu, Sector 13, Dwarka, New Delhi",3,3333.3333333333335,4.2,9
+"Roseate House, Aerocity, New Delhi",4,3150.0,4.3,10
+"Shangri-La's - Eros Hotel, Connaught Place, New Delhi",5,3080.0,4.5,11
+"JW Marriott New Delhi, New Delhi",3,2833.3333333333335,4.6,12
+"Pullman New Delhi Aerocity, Aerocity, New Delhi",4,2800.0,4.6,13
+"Country Inn & Suites by Carlson, Sahibabad, Ghaziabad",3,2733.3333333333335,4.5,14
+"Sheraton New Delhi Hotel, Saket, New Delhi",3,2733.3333333333335,4.4,14
+"The Claridges, Aurangzeb Road, New Delhi",4,2700.0,4.7,15
+"Sangam Courtyard, RK Puram, New Delhi",3,2533.3333333333335,4.6,16
+"Andaz Delhi, Aerocity, New Delhi",3,2500.0,4.5,17
+"Radisson Blu Plaza Delhi Airport, Mahipalpur, New Delhi",3,2500.0,4.6,17
+"Two Horizon Center, Golf Course Road, Gurgaon",4,2500.0,4.8,17
+"Mehrauli, New Delhi",9,2266.6666666666665,4.7,18
+"Janpath, New Delhi",5,2260.0,4.5,19
+"Aerocity, New Delhi",4,2175.0,4.6,20
+"Gardens Galleria, Sector 38 Noida, Noida",9,2166.6666666666665,4.4,21
+"Vivanta by Taj, Suraj Kund, Faridabad",3,2000.0,4.4,22
+"Logix City Centre, Sector 32, Noida, Noida",5,1960.0,4.4,23
+"Epicuria Food Mall, Nehru Place, New Delhi",7,1942.857142857143,4.4,24
+"M Block Market, Greater Kailash 2 (GK2), New Delhi",10,1910.0,4.6,25
+"Ansal Plaza Mall, Khel Gaon Marg, New Delhi",5,1880.0,4.5,26
+"Worldmark 1, Aerocity, New Delhi",8,1862.5,4.6,27
+"Pandara Road Market, New Delhi",7,1771.4285714285713,4.7,28
+"Global Foyer Mall, Golf Course Road, Gurgaon",5,1720.0,4.7,29
+"DLF Promenade Mall, Vasant Kunj, New Delhi",5,1700.0,4.2,30
+"Sector 29, Gurgaon",31,1685.483870967742,4.7,31
+"Pacific Mall, Tagore Garden, New Delhi",5,1660.0,4.7,32
+"Sunder Nagar, New Delhi",3,1600.0,4.3,33
+"Unity One Mall, Janakpuri, New Delhi",3,1566.6666666666667,4.6,34
+"Essex Farms, Adchini, New Delhi",4,1550.0,4.4,35
+"32nd Avenue, NH8, Gurgaon, Gurgaon",11,1545.4545454545455,4.7,36
+"Adchini, New Delhi",3,1533.3333333333333,4.2,37
+"Cyber Hub, DLF Cyber City, Gurgaon",19,1523.6842105263158,4.9,38
+"Khan Market, New Delhi",19,1515.7894736842106,4.9,39
+"Chanakyapuri, New Delhi",14,1503.5714285714287,4.8,40
+"Cross Point Mall, DLF Phase 4, Gurgaon",6,1466.6666666666667,4.6,41
+"Indirapuram Habitat Centre, Indirapuram, Ghaziabad",3,1433.3333333333333,4.5,42
+"Ambience Mall, Vasant Kunj, New Delhi",6,1416.6666666666667,4.6,43
+"The Great India Place, Sector 38, Noida",3,1416.6666666666667,4.2,43
+"South Extension 2, New Delhi",5,1400.0,4.4,44
+"Kailash Colony, New Delhi",7,1385.7142857142858,4.8,45
+"Gwal Pahari, Gurgaon",4,1375.0,4.1,46
+"Greater Kailash 2 (GK2), New Delhi",20,1340.0,4.7,47
+"Kaushambi, Ghaziabad",4,1325.0,4.3,48
+"Hauz Khas Village, New Delhi",11,1322.7272727272727,4.8,49
+"Vasant Vihar, New Delhi",5,1320.0,4.6,50
+"Saket, New Delhi",6,1308.3333333333333,4.7,51
+"Punjabi Bagh, New Delhi",26,1305.7692307692307,4.5,52
+"Lodhi Colony, New Delhi",9,1300.0,4.9,53
+"Golf Course Road, Gurgaon",12,1291.6666666666667,4.6,54
+"Select Citywalk Mall, Saket, New Delhi",10,1255.0,4.8,55
+"Connaught Place, New Delhi",69,1242.7536231884058,4.9,56
+"City Centre Mall, Sector 12, Dwarka, New Delhi",6,1216.6666666666667,4.3,57
+"Defence Colony, New Delhi",3,1200.0,4.5,58
+"South Point Mall, Golf Course Road, Gurgaon",9,1200.0,4.6,58
+"Civil Lines, New Delhi",4,1175.0,4.4,59
+"Eros City Square Mall, Sector 49, Gurgaon, Gurgaon",4,1175.0,4.6,59
+"Golf Course Extension, Gurgaon",4,1175.0,4.1,59
+"Sector 110, Noida",4,1175.0,4.6,59
+"DLF Avenue, Saket, New Delhi",5,1160.0,4.6,60
+"M Block Market, Greater Kailash 1 (GK1), New Delhi",9,1144.4444444444443,4.7,61
+"Community Centre, New Friends Colony, New Delhi",5,1140.0,4.3,62
+"Greater Kailash 3 (GK3), New Delhi",3,1133.3333333333333,4.4,63
+"East of Kailash, New Delhi",4,1125.0,4.4,64
+"SDA Market, SDA, New Delhi",4,1125.0,4.3,64
+"Sector 63, Noida",10,1125.0,4.5,64
+"East Patel Nagar, New Delhi",5,1120.0,4.3,65
+"Sector 12, Faridabad",3,1100.0,4.3,66
+"Green Park, New Delhi",12,1091.6666666666667,4.4,67
+"Rajouri Garden, New Delhi",31,1088.7096774193549,4.5,68
+"MG Road, Gurgaon",4,1087.5,4.3,69
+"Hauz Khas, New Delhi",14,1071.4285714285713,4.5,70
+"Sector 16, Faridabad",8,1068.75,4.5,71
+"Ashok Vihar Phase 2, New Delhi",12,1058.3333333333333,4.5,72
+"Preet Vihar, New Delhi",6,1050.0,4.4,73
+"Nehru Place, New Delhi",5,1040.0,4.4,74
+"Chhatarpur, New Delhi",4,1037.5,4.5,75
+"Ambience Mall, DLF Phase 3, Gurgaon",8,1025.0,4.8,76
+"DLF Galleria, DLF Phase 4, Gurgaon",9,1022.2222222222222,4.6,77
+"Sector 23, Gurgaon",3,1016.6666666666666,4.6,78
+"DLF Cyber City, Gurgaon",4,1000.0,4.2,79
+"Sector 15, Gurgaon",9,1000.0,4.9,79
+"Kirti Nagar, New Delhi",5,990.0,4.2,80
+"Sector 18, Noida",17,985.2941176470588,4.4,81
+"Defence Colony Main Market, Defence Colony, New Delhi",9,977.7777777777778,4.4,82
+"Sector 41, Noida",3,966.6666666666666,4.7,83
+"DLF Mall of India, Sector 18,  Noida, Noida",6,958.3333333333334,4.8,84
+"Vasant Kunj, New Delhi",10,945.0,4.5,85
+"Greater Kailash 1 (GK1), New Delhi",12,925.0,4.6,86
+"Sector 54, Gurgaon",4,925.0,4.2,86
+"Sohna Road, Gurgaon",10,920.0,4.6,87
+"Sushant Lok, Gurgaon",9,911.1111111111111,4.7,88
+"Sector 83, Gurgaon",7,900.0,4.3,89
+"Hajipur, Noida",12,887.5,4.7,90
+"DLF Phase 4, Gurgaon",13,876.9230769230769,4.3,91
+"PVR Anupam Complex, Saket, New Delhi",4,875.0,4.4,92
+"Baani Square, Sector 50, Gurgaon",19,860.5263157894736,4.7,93
+"South City 2, Gurgaon",4,850.0,4.4,94
+"Aditya City Centre, Indirapuram, Ghaziabad",3,833.3333333333334,4.1,95
+"Sector 15, Faridabad",5,810.0,4.6,96
+"Jasola, New Delhi",4,800.0,4.5,97
+"Sector 53, Gurgaon",4,800.0,4.1,97
+"Shahpur Jat, New Delhi",9,800.0,4.5,97
+"Indirapuram, Ghaziabad",21,797.6190476190476,4.5,98
+"DLF Phase 1, Gurgaon",6,791.6666666666666,4.5,99
+"Delhi University-GTB Nagar, New Delhi",26,784.6153846153846,4.7,100
+"Lajpat Nagar 2, New Delhi",5,780.0,4.4,101
+"Safdarjung, New Delhi",24,770.8333333333334,4.6,102
+"Sector 81, Faridabad",5,770.0,4.4,103
+"Sector 56, Gurgaon",6,766.6666666666666,4.5,104
+"Udyog Vihar, Gurgaon",4,737.5,4.4,105
+"Good Earth City Center, Sector 50, Gurgaon",3,733.3333333333334,4.0,106
+"Sector 5, Dwarka, New Delhi",3,733.3333333333334,4.4,106
+"Rajinder Nagar, New Delhi",11,718.1818181818181,4.4,107
+"Satyaniketan, New Delhi",13,715.3846153846154,4.6,108
+"Sector 50, Gurgaon",9,705.5555555555555,4.4,109
+"Malviya Nagar, New Delhi",20,702.5,4.3,110
+"Rohini, New Delhi",34,701.4705882352941,4.4,111
+"Chandni Chowk, New Delhi",6,700.0,4.7,112
+"Raj Nagar, Ghaziabad",21,690.4761904761905,4.4,113
+"Sector 10, Dwarka, New Delhi",4,687.5,4.4,114
+"Sector 6, Dwarka, New Delhi",3,683.3333333333334,4.1,115
+"Karkardooma, New Delhi",17,676.4705882352941,4.5,116
+"Basant Lok Market, Vasant Vihar, New Delhi",3,666.6666666666666,4.1,117
+"Kamla Nagar, New Delhi",12,666.6666666666666,4.3,117
+"Majnu ka Tila, New Delhi",7,664.2857142857143,4.6,118
+"Pitampura, New Delhi",15,663.3333333333334,4.3,119
+"Sector 49, Gurgaon",8,656.25,4.5,120
+"Supermart 1, DLF Phase 4, Gurgaon",9,650.0,4.6,121
+"Vaishali, Ghaziabad",6,650.0,4.2,121
+"Janakpuri, New Delhi",22,645.4545454545455,4.3,122
+"Sector 62, Noida",9,644.4444444444445,4.4,123
+"Sector 72, Noida",14,642.8571428571429,4.5,124
+"Crossing Republik, Ghaziabad",5,640.0,4.3,125
+"Sector 135, Noida",10,635.0,4.4,126
+"Ashok Vihar Phase 1, New Delhi",3,633.3333333333334,4.1,127
+"Knowledge Park, Greater Noida",3,633.3333333333334,4.4,127
+"Sector 7, Dwarka, New Delhi",11,631.8181818181819,4.3,128
+"Vijay Nagar, New Delhi",14,621.4285714285714,4.8,129
+"Alpha 2, Greater Noida",5,620.0,4.2,130
+"Champa Gali, Saket, New Delhi",5,620.0,4.4,130
+"Kalkaji, New Delhi",12,616.6666666666666,4.2,131
+"Gaur City 1, Greater Noida",12,612.5,4.3,132
+"Chittaranjan Park, New Delhi",10,605.0,4.2,133
+"Model Town 2, New Delhi",3,600.0,4.2,134
+"R K Puram, New Delhi",3,600.0,4.5,134
+"Old Railway Road, Gurgaon",6,591.6666666666666,4.1,135
+"Sector 14, Gurgaon",8,587.5,4.5,136
+"Anand Vihar, New Delhi",7,585.7142857142857,4.7,137
+"Raheja Mall, Sohna Road, Gurgaon",3,583.3333333333334,4.6,138
+"Moti Nagar, New Delhi",5,570.0,4.3,139
+"Daryaganj, New Delhi",6,566.6666666666666,4.2,140
+"Murthal, New Delhi",3,566.6666666666666,4.2,140
+"PVR City Centre Mall, MG Road, Gurgaon",3,566.6666666666666,4.1,140
+"Sector 17, Faridabad",3,566.6666666666666,4.2,140
+"Qutab Plaza, DLF Phase 1, Gurgaon",4,562.5,4.3,141
+"Lajpat Nagar 4, New Delhi",6,558.3333333333334,4.2,142
+"Sector 45, Noida",6,558.3333333333334,4.2,142
+"DLF Phase 3, Gurgaon",12,554.1666666666666,4.3,143
+"Rodeo Drive, Sector 49, Gurgaon, Gurgaon",5,550.0,4.3,144
+"Sector 71, Noida",4,550.0,4.2,144
+"Sushant Shopping Arcade, Sushant Lok, Gurgaon, Gurgaon",3,550.0,4.2,144
+"Karol Bagh, New Delhi",20,545.0,4.3,145
+"Mayur Vihar Phase 1, New Delhi",9,522.2222222222222,4.4,146
+"Krishna Nagar, New Delhi",5,520.0,4.0,147
+"Sector 37, Noida",6,516.6666666666666,4.2,148
+"Pandav Nagar, New Delhi",4,512.5,4.3,149
+"NIT, Faridabad",17,502.94117647058823,4.3,150
+"Amrapali Dream Valley, Greater Noida",3,500.0,4.2,151
+"Ballabhgarh, Faridabad",3,500.0,4.2,151
+"Mukherjee Nagar, New Delhi",6,500.0,4.0,151
+"Sector 50, Noida",4,500.0,4.2,151
+"Sector 93, Noida",3,483.3333333333333,4.4,152
+"Yusuf Sarai, New Delhi",7,478.57142857142856,4.3,153
+"Gamma 1, Greater Noida",9,477.77777777777777,4.2,154
+"Jail Road, New Delhi",9,477.77777777777777,4.2,154
+"Subhash Nagar, New Delhi",9,477.77777777777777,4.7,154
+"Mayur Vihar Phase 2, New Delhi",5,470.0,4.2,155
+"Mayapuri Phase 2, New Delhi",4,462.5,4.1,156
+"Sector 31, Gurgaon",11,454.54545454545456,4.3,157
+"Gaur City 2, Greater Noida",5,450.0,4.2,158
+"Tilak Nagar, New Delhi",3,450.0,4.0,158
+"Vasundhara, Ghaziabad",3,450.0,4.0,158
+"Vikaspuri, New Delhi",5,440.0,4.2,159
+"Jaipuria Sunrise Plaza, Indirapuram, Ghaziabad",4,437.5,4.1,160
+"Ashok Vihar Phase 3, New Delhi",3,433.3333333333333,4.1,161
+"Prashant Vihar, New Delhi",6,433.3333333333333,4.4,161
+"Sector 11, Dwarka, New Delhi",3,433.3333333333333,4.3,161
+"Paschim Vihar, New Delhi",16,425.0,4.5,162
+"Sector 7, Faridabad",4,425.0,4.2,162
+"Shalimar Bagh, New Delhi",7,421.42857142857144,4.2,163
+"Sector 31, Faridabad",3,400.0,4.2,164
+"Laxmi Nagar, New Delhi",11,390.90909090909093,4.1,165
+"Gujranwala Town, New Delhi",3,383.3333333333333,4.2,166
+"Sector 22, Gurgaon",3,383.3333333333333,4.1,166
+"Uttam Nagar, New Delhi",9,383.3333333333333,4.3,166
+"Shahdara, New Delhi",9,377.77777777777777,4.2,167
+"Chander Nagar, New Delhi",6,375.0,4.2,168
+"Tagore Garden, New Delhi",3,366.6666666666667,4.0,169
+"IP Extension, New Delhi",4,362.5,4.0,170
+"Geeta Colony, New Delhi",3,333.3333333333333,4.3,171
+"Jama Masjid, New Delhi",8,325.0,4.6,172
+"Gole Market, New Delhi",4,287.5,4.1,173
+"Sector 7, Gurgaon",4,287.5,4.2,173
+"West Patel Nagar, New Delhi",3,283.3333333333333,4.1,174
