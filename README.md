@@ -50,4 +50,4 @@ To build a functional, single-page diagnostic interface that visualizes regional
 ---
 
 ## 📸 6. Screenshots / Demos
-DELHI-NCR-FOODTECH-MARKET-ENTRY-PRICING-STRATEGY/ZOMATO_HORECA_DASHBOARD.png at main · yashBhati1012/DELHI-NCR-FOODTECH-MARKET-ENTRY-PRICING-STRATEGY
+https://github.com/yashBhati1012/DELHI-NCR-FOODTECH-MARKET-ENTRY-PRICING-STRATEGY/blob/main/ZOMATO_HORECA_DASHBOARD.png
